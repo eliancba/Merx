@@ -1,6 +1,6 @@
 # MERX
 
-**Autor:** Elian Pucheta - **elianpucheta1@gmail.com**
+**Autor:** Elian Alexander Pucheta - **elianpucheta1@gmail.com**
 
 ## Descripción
 
